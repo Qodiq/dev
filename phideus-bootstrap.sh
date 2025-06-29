@@ -1,7 +1,7 @@
 #!/bin/bash
 # Phideus Bootstrap - The Igniting Spark
 # Run on Ubuntu 22.04 LTS VPS with 32+ CPUs
-
+# © Copyright Philip Devéus 2025
 set -euo pipefail
 
 # Colors for output
