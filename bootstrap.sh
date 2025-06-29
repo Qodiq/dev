@@ -43,11 +43,11 @@ print_banner() {
     cat << "EOF"
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                      PHIDEUS RESEARCH PLATFORM v1.0                           ║
+║                      @ Copyright Philip Devéus 2025                           ║
+║             "Order through Entropy, Knowledge through Synthesis"              ║
 ║                                                                               ║
-║    "Order through Entropy, Knowledge through Synthesis"                       ║
-║                                                                               ║
-║    A self-organizing research system that applies Phideus principles          ║
-║    to continuously explore, learn, and evolve.                                ║
+║        A self-organizing research system that applies Phideus principles      ║
+║                 to continuously explore, learn, and evolve.                   ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 EOF
     echo -e "${NC}"
